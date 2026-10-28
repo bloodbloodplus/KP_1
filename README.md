@@ -32,13 +32,11 @@ $$Q(X) = \begin{cases} \dfrac{(X-28)^2}{3}+10, & \text{при } X < 28 \\ 3(X-36
 
 ### Блок-схема X → f(X) → Q → CONTROL → STATE
 
-![Блок-схема 1]
 <img width="600" height="600" alt="scheme1 drawio" src="https://github.com/user-attachments/assets/1bbfbd8a-cd49-483f-a2a2-d6628b9079ae" />
 
 
 ### Блок-схема Q[] → заданный интервал → STATISTICS
 
-![Блок-схема 2]
 <img width="600" height="600" alt="scheme2 drawio" src="https://github.com/user-attachments/assets/fcb5063c-62e2-4b11-a476-d4601fff4b35" />
 
 
